@@ -1,6 +1,7 @@
 # github_project_9
 #include<iostream.h>
 #include<libstd.h>
+using namespace std;
 
 
 int main(){
